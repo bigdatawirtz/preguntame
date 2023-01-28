@@ -1,0 +1,24 @@
+::Q1::MapReduce está escrito en qué lenguaje {
+    =Java
+    ~Typescript
+    ~C+
+    ~Javascript
+}
+
+::Q2::Cual de las siguientes afirmaciones es la mas correcta sobre los sink de Flume{
+    ~Elimina eventos de un Channel
+    ~Transmite los eventos a un agente
+    ~Transmite los eventos a su destino final
+    =todas son correctas
+}
+
+::Q3::Flume es facilmente escalable, a diferencia de Kafka{F}
+
+::Q4::Las fuentes de datos que alimentan el DataWarehouse se llaman Data Marts {F}
+
+::Q5::El concepto replicacion (en bbdd NoSQL) se basa en...{
+    =Un conjunto de datos que reside en varios nodos distintos
+    ~Varios conjuntos de datos identicos en un mismo nodo
+    ~Dividir un conjunto de datos en dos subconjuntos
+    ~Dividir un conjunto de datos en varios subconjuntos
+}
