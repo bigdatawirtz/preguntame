@@ -1,0 +1,19 @@
+::Q1:: En refencia as BBDD NoSQL de Grafos, non tódolos nodos ou aristas teñen pares clave-valor. {F}
+
+::Q2:: Cal das seguintes características NON fai referencia a Flume. {
+~ Deseño orientado a Hadoop.
+~ Eficiente agregando e movendo datos a un almacén centralizado.
+= Fácilmente escalable.
+~ Desenvolvemento estancado.
+}
+
+::Q3:: Fontes como as redes sociais poden almacenar todo tipo de datos no Data Warehouse, que logo son procesados e estruturados para entrar no Data Lake. {F}
+
+::Q4:: Cal das seguintes características pertence as BBDD NoSQL "MongoDB". {
+~ Orientada a almacenar documentos
+= Todas son válidas.
+~ Arquitectura escalable.
+~ Esquema de datos variable.
+}
+
+::Q5:: Sqoop é unha ferramenta do ecosistema Hadoop que permitenos inxerir datos a HDFS a través de comandos. {T}
