@@ -1,0 +1,15 @@
+::Q1:: Hadoop se creo para manejar volumenes de datos masivos {TRUE}
+::Q2:: Apache Flume NO es un produto que forma parte del ecosistema de Hadoop {FALSE}
+::Q3:: Cual de estos No es un componente del Datawarehouse?{
+~ Sistemas operacionales
+~ Metadata
+~ Data Marts
+= Procesos NFT
+}
+::Q4:: Las siglas ETL significan, Extract, Transform y load {TRUE}
+::Q5::Cual NO es un Tipo de noSQL orientadas a columnas{
+~ Google Big Table
+~ HBase
+~ Apache Cassandra
+= Neo4j
+}
