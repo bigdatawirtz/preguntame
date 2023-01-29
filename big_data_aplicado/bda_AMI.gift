@@ -1,7 +1,7 @@
 // Preguntas Adrián
 ::Q1:: Apache Kafka é unha plataforma distribuída de transmisión de datos pero non permite publicar, almacenar e procesar fluxos de datos en tempo real. {F}
 
-::Q2:: Mediante o contedor Kafka os usuarios poden consumir varias fontes de datos ó mesmo tempo de forma sinxela {V}
+::Q2:: Mediante o contedor Kafka os usuarios poden consumir varias fontes de datos ó mesmo tempo de forma sinxela {T}
 
 ::Q3:: ¿Cal destas afirmacions é a correcta?. {
 ~ Kafka está optimizado para a inxesta de datos en tempo real, é tolerante a fallos pero non é facimente escalable.
