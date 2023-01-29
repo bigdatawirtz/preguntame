@@ -1,0 +1,25 @@
+::Q1::Sinala a opción sorrecta sobre escalabilidade vertical  {
+ = o procesamento de datos toma o volumen de datos completo e procésao nun só equipo mopi potente
+ ~ o procesamento de datos divide o volumen de datos en pates e procésao en moitas computadoras pouco potentes
+}
+
+::Q2::O sistema de arquivos distribuídos Hadoop (HDFS), que é un sistema de arquivos distribuídos con 
+tolerancia a fallos {T}
+
+::Q3::Un Data Mart é unha estrutura de datos deseñada especificamente para que usuarios finais 
+poidan acceder e explorar os datos de forma rápida e interactiva {T}
+
+::Q4::Sinala a opción máis correcta sobre o Esquema de estrela {
+ = Todas as opción son correctas
+ ~ A táboa de feitos describe os eventos principais
+ ~ As táboas de dimensións correspóndense con diferentes grupos de atributos relevantes
+ ~ O esquema permite responder preguntas con consultas máis simples e eficientes
+}
+
+::Q5::Sinala a opción máis correcta sobre Apache Kafka {
+ = Todas as opción son correctas
+ ~ É unha plataforma distribuída de transmisión de datos, ou dito doutro xeito, un 
+sistema de mensaxería. 
+ ~ Permite publicar, almacenar e procesar fluxos de datos en tempo real
+ ~ Baséase no patrón de deseño produtor/consumidor.
+}

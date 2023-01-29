@@ -1,0 +1,29 @@
+// verdadero-falso
+::Q1
+::A replicación é un concepto das bbdd noSQL distribuídas basado na división dos conxuntos de datos en subconxuntos máis pequenos.{F}
+
+// verdadero-falso
+::Q2
+::Flume é un sistema de inxestión destinado principalmente a fluxos de datos.{T}
+
+//Resposta múltiple
+::Q3
+:: ¿De que tipo de noSQL é MongoDB?{
+=Orientadas a documentos
+~Orientadas a columnas
+~Clave-valor
+~Grafos
+}
+
+//Resposta múltiple
+::Q4
+:: O Master Node dun sistema de ficheiros distribuído ten como función rexistrar os metadatos.{T}
+
+//Resposta múltiple
+::Q5
+:: Indica a opción incorrecta sobre Kafka{
+=Non fácilmente escalable
+~Fácilmente escalable
+~Sistema de mensaxería eficiente e tolerante a fallos
+~Moderno, actualizado e versátil
+}
