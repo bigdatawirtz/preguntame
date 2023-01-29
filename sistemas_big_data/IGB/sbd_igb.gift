@@ -2,7 +2,7 @@
 :: Los archivos parquet tienen formato binario y almacenan datos no estructurados {F}
 
 :: Q2
-:: Los archivos CSV son ficheros de texto plano que se pueden separar por /":" por ejemplo {T}
+:: Los archivos CSV son ficheros de texto plano que se pueden separar por "\:" por ejemplo {T}
 
 :: Q3
 :: Características que debe de cumplir un portal OpenData (señala la incorrecta) {
