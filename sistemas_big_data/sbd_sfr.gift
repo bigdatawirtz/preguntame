@@ -1,10 +1,10 @@
-::Q1:: Los tipos de datos se pueden dividir en datos estruturados, datos semi-estruturados y datos no estruturados{TRUE}
-::Q2:: un ejemplo de datos no estructurados podría ser registros medicos? {TRUE}
+::Q1:: Los tipos de datos se pueden dividir en datos estruturados, datos semi-estruturados y datos no estruturados{T}
+::Q2:: un ejemplo de datos no estructurados podría ser registros medicos? {T}
 ::Q3:: Cual de estos formatos No se puede trabajar en python.{
 ~CSV
 ~Excel
 ~JSON
 =NLC
 }
-::Q4:: JSON Formato de texto simple para el intercambio de datos. {TRUE}
-::Q5:: SQL es un lenguaje de dominio específico, diseñado para administrar, y recuperar información de sistemas de gestión de bases de datos relacionales.​ {TRUE}
+::Q4:: JSON Formato de texto simple para el intercambio de datos. {T}
+::Q5:: SQL es un lenguaje de dominio específico, diseñado para administrar, y recuperar información de sistemas de gestión de bases de datos relacionales.​ {T}
