@@ -1,0 +1,18 @@
+// falso/verdadero
+::Q1::Las bases de datos noSQL pueden trabajar con datos no estructurados{T}
+
+// falso/verdadero
+::Q2:: Hay solo tres tipos de bases de datos noSQL que son clave-valor, orientadas a columnas y grafos{F}
+
+// falso/verdadero
+::Q3::Apache Kafka é unha plataforma distribuída de transmisión de datos que baséase no patrón de deseño produtor/consumidor{T}
+
+// falso/verdadero
+::Q4::Con Data Ingestion ou Inxesta de datos referímonos ao proceso polo que obtemos os datos e 
+os almacenamos{T}
+
+// falso/verdadero
+::Q5:: Un Data Mart é unha estrutura de datos deseñada especificamente para que usuarios finais 
+poidan acceder e explorar os datos de forma rápida e interactiva{T}
+
+
