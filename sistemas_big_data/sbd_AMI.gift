@@ -1,0 +1,35 @@
+// Preguntas Adrián
+::Q1:: Os datos poden ter diferentes orixes, estas se clasifican en... {
+= Fontes internas, na que a información se xera internamente nunha organización, e as fontes externas, que se xera fóra da organización.
+~ Fontes internas, na que a información de xera dentro do mesmo país, e as fontes externas, que se xera fóra do mesmo país.
+~ Fontes accesibles, na que a información é  totalmente accesible, e as fontes inacesibles, na que se restringe o acceso a certo tipo de información.
+~ Fontes de datos cifradas e fontes de datos descifradas.
+}
+
+::Q2:: O uso das Redes Sociais no Big Data... {
+~ Teñen poca importancia en Big Data por ter problemas de veracidade e non permiten extraer todo tipo de información.
+~ Teñen moita importancia en Big Data por non ter problemas de veracidade e permiter extraer tanto información empresa e persoas de todo tipo.
+= Cada vez cobran máis importancia en Big Data, poden ter problemas de veracidade, permiten extraer información sobre empresas e persoas de todo tipo.
+~ Cada vez cobran máis importancia en Big Data, non teñen problemas de veracidade, permiten extraer información sobre empresas e persoas de todo tipo ata o mais mínimo detalle.
+}
+
+::Q3:: Disponemos de métodos de acceso aos datos, ¿cales son?. {
+~ Acceso remoto, asistentes virtuales, descarga.
+= Descarga, API, Crawling/Scrapping.
+~ Portais de datos abertos, uso de torrents, red profunda.
+~ As respostas a e b son correctas.
+}
+
+::Q4::  ¿Cal de estas respostas non está relacionada có consumo dunha API? {
+~ Enlace a la API, actividade do portal, organización do portal.
+= Compartir los datos modificados en un proyecto mediante unha pull-request.
+~ Tipos de datos que ofrece un portal de consumo de recursos web e súa clasicación según o tipo.
+~ Dataset dos datos, casos de uso, datos abertos.
+}
+
+::Q5:: ¿En que formato podemos gardar os datos mediante o separador que queramos?. {
+~ CSV e XSL.
+= CSV.
+~ parquet.
+~ JSON e XML.
+}
