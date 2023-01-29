@@ -2,7 +2,7 @@
 ::Q1::Apache KAFKA es una plataforma NO distribuída de transmisión de datos{F}
 
 //Verdadero/Falso
-::Q2::KAFKA es facilmente escalable{V}
+::Q2::KAFKA es facilmente escalable{T}
 
 //Respuesta Múltiple
 ::Q3::Componentes Datawarehouse{
