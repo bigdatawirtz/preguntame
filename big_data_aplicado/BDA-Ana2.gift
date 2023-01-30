@@ -1,0 +1,14 @@
+::Q1:: El sistema de archivos distribuídos Hadoop (HDFS), es un sistema de arquivos distribuídos con
+tolerancia a fallos. {T}
+
+::Q2:: En el ecosistema Hadoop existen diferentes herramientas que nos permiten consumir datos a HDFS {T}
+
+
+::Q3:: Sqoop: 'sql-to-hadoop, permite mover datos desde bases de datos relacionales a HDFS (y
+viceversa) {T}
+
+::Q4:: Apache Flume No es  un produto que forma parte del ecosistema Hadoop {F}
+
+::Q5:: Bases NoSQL no pueden trabajar con datos semi-estruturados {F}
+
+
