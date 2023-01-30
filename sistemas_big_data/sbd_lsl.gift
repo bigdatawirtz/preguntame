@@ -1,0 +1,19 @@
+::Q1:: Cúal no es un tipo de dato? {
+    ~Datos estruturados
+    ~Datos semi-estruturados
+    ~Datos non estruturados
+    =Datos poco estructurados
+}
+
+::Q2:: Los datos estructurados son los más fáciles de procesar y son de los que más cantidad hay {F}
+
+::Q3:: Un ejemplo de datos no estructurados son los registros médicos {T}
+
+::Q4:: Cúal no es un elemento de estructura del formato JSON? {
+    ~Llaves
+    ~Corchetes
+    ~Dos puntos
+    =Paréntesis
+}
+
+::Q5:: Una fuente de datos externa sería el OpenData {T}
