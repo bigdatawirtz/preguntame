@@ -17,9 +17,9 @@
 ~ Las bases de datos NoSQL aún no existen.
 }
 
-::Q5:: . O Datawarehouse é un almacén enorme de datos. ¿Cuales son son características?{
+::Q5:: O Datawarehouse é un almacén enorme de datos. ¿Cuales son son características?{
 ~ Deseñado para permitir a análisis de xeito eficiente, apoio a toma de decisión, a información está estructurada.
 ~ Almacén de datos único, uso de diferentes fontes de datos, almacén centralizado, el amacenamiento puede ser on-Premisis y on Cloud.
 ~ A información no está estruturada, almacén de datos distribuido, su funcionalidad está centrada solo a la visualización e representación de datos.
-= As respostas a e b son correctas.
+= Hay 2 respostas correctas.
 }
