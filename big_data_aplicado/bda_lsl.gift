@@ -1,0 +1,19 @@
+::Q1:: Cúal no es un tipo de base de datos noSQL? {
+    ~Clave-valor
+    ~Grafos
+    ~Orientadas a documentos
+    =Orientadas a filas
+}
+
+::Q2:: El sharding es la división de dos conjuntos de datos en subconjuntos más pequeños {T}
+
+::Q3:: Kafka no permite publicar o almacenar flujos de datos en tiempo real {F}
+
+::Q4:: Cúal no es un componente del Datawarehouse? {
+    ~Sistemas operacionales
+    ~Metadata
+    ~Data Marts
+    =DTL
+}
+
+::Q5:: El esquema de estrella permite hacer consultas más simples y eficientes {T}
