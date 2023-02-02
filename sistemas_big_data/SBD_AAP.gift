@@ -1,0 +1,27 @@
+::Q1:: Un archivo JSON es un dato...{
+    = Semi-estructurado.
+    ~ Estructurado
+    ~ No estructurado
+    ~ Quasi-estructurado
+}
+
+::Q2:: Podemos leer archivos clipboard con pandas {T}
+
+::Q3::Los artículos de prensa son una fuente de datos.... {
+    =Externa
+    ~Interna
+}
+
+::Q4:: Cual de los siguientes elementos puede presentar problemas de veracidad?  {
+    =RRSS.
+    ~OpenData
+    ~Portal de ofertas de emprego
+    ~Portal de informacion xeográfica
+}
+
+::Q5:: Cual de estos no es un método de acceso de datos legítimo ? {
+    = Scrapping.
+    ~ Phising
+    ~ DDoS
+    ~ ClickJacking
+}

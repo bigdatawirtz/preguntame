@@ -1,13 +1,13 @@
-::Q1:: Flume es mas moderno y versátil que Kafka. {F}
-
-::Q2:: Cual de los siguientes elementos es un componente clave en las arquitecturas de datos modernas? {
-    = Data Lake.
-    ~ Virtualización de datos
-    ~ Cubos OLAP
-    ~ Data Marts
+::Q1:: Un archivo JSON es un dato:
+{
+    = Semi-estructurado.
+    ~ Estructurado
+    ~ No estructurado
+    ~ Quasi-estructurado
 }
 
-::Q3:: La arquitectura moderna de datos garantíza la calidad e integridad de los datos con procesos de gobernanza. {T}
+::Q2:: Podemos leer archivos clipboard con pandas {T}
+
 
 ::Q4:: Las bases de datos NoSQL cada vez son mas necesitadas por, entre otras cosas, el aumento de los datos semi-estructurados {T}
 
