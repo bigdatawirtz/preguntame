@@ -1,0 +1,27 @@
+//Verdadero/Falso
+::Q1::Los datos estructurados son más difíciles de procesar{F}
+
+//Verdadero/ Falso
+::Q2::Los dos puntos en un archivo JSON separa la clave y el valor{T}
+
+//Respuesta Múltiple
+::Q3::Es una fuente de datos Interna...{
+    ~Páginas web
+    ~RRSS
+    =Stock
+}
+
+//Respuesta Múltiple
+::Q4::Son ficheros de texto plano...{
+    =CSV
+    ~PC-axis
+    ~Excel
+    ~Parquet
+}
+
+//Respuesta Múltiple
+::Q5::Formato que tiene gran presencia en la administración pública{
+    ~Excel
+    ~JSON
+    =PC-Axis
+}

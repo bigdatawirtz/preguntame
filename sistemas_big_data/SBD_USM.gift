@@ -1,0 +1,19 @@
+::Q1:: OpenData es una fuente externa y pública {T}
+
+::Q2:: Tipos de Datos {
+~ Estructurados, Semi-estructurados, SQL, NoSQL
+~ SQL, NoSQL
+= Estructurados, Semi-estructurados, No estructurados
+~ Estructurados, No estructurados, SQL
+}
+
+::Q3:: Shapefile es un formato para datos {
+~ Complejos
+~ Estructurados
+~ Simples
+= Espaciales
+}
+
+::Q4:: Las fuentes internas es información generada internamente por una organización {T}
+
+::Q5:: Los datos Quasi estructurados incluyen patrones reconocibles {T}

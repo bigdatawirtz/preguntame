@@ -1,0 +1,24 @@
+::Q1:: O procesamento de datos distribuído toma o volume de datos de gran tamaño e divídeo en partes máis pequenas. {TRUE}
+
+::Q2:: Son ferramentas de Data Ingestion do ecosistema Hadoop... {
+~ Parquet e Flume.
+~ HDFS e Kafka.
+= Sqoop e Flume.
+~ Sqoop e Kafka.
+}
+
+::Q3:: Cal de estos non é un compoñente dun datawarehouse. {
+~ Sistemas operacionais.
+= Procesos ETS.
+~ Metadata.
+~ Data Marts.
+}
+
+::Q4:: Escolle a afirmación correcta sobre Kafka. {
+~ Permite publicar, almacenar e procesar fluxos de datos en tempo real.
+= Todas son correctas.
+~ É unha plataforma distribuída de transmisión de datos.
+~ Baséase no patrón de deseño produtor/consumidor.
+}
+
+::Q5:: Cassandra é un tipo de base de datos noSQL orientada a documento. {FALSE}

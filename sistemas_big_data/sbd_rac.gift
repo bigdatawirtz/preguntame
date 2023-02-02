@@ -1,0 +1,19 @@
+::Q1:: Os datos poden ser estructurados, semi-estructurados ou desordeados. {FALSE}
+
+::Q2:: NON é un formato de dato co que Python pode traballar... {
+~ Parquet.
+~ Shapefile.
+= CVS.
+~ JSON.
+}
+
+::Q3:: Para recopilar datos existen diferentes métodos, como... {
+~ API's.
+~ Scrapping.
+~ Descarga directa.
+= Todos os mencionados.
+}
+
+::Q4:: As fontes de datos internas son información que se xera internamente nunha organización. {TRUE}
+
+::Q5:: Nun proxecto Big Data búscase a maior cantidade de datos para obter resultados máis precisos. {TRUE}
