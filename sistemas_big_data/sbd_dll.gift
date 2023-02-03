@@ -1,0 +1,19 @@
+::Q1:: O número total de contas das redes sociais supera a poboación mundial, isto fai que os datos sexan incertos tanto na sua expresión coma no seu contido. {T}
+
+::Q2:: Según os tipos de datos, indica cal das seguintes afirmación é FALSA. {
+~ Os datos estruturados son máis sinxelos de procesar que os non estruturados.
+~ Os datos semi-estruturados precisan de menor cantidade que os non estruturados.
+= Os datos semi-estruturados son máis sinxelos de procesar que os estruturados. 
+~ Os datos non estruturados precisan de maior cantidade que os estruturados.
+}
+
+::Q3:: O formato de Datos "CSV", pode separar os seus valores da forma que sexa, mentres que o separador elexido sexa compatible co software ou programa que o vai utilizar. {T}
+
+::Q4:: En referencia ao OpenData, indica cal das seguintes respostas correspóndese cunha característica que debe cumprir. {
+~ Formato aberto pero non editable, accesible a través da web.
+= Documentación da origen dos datos e permiso para sua reutilización.
+~ Non require de permiso de reutilización, pero si debe un formato editable.
+~ Formato aberto e editable para as persoas autorizadas.
+}
+
+::Q5:: A librería de Python "Pandas", permite a manipulación de datos con ferramentas para procesar, limpar, analizar e almacenar os datos. {F}
