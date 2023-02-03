@@ -1,0 +1,28 @@
+// verdadero-falso
+::Q1
+::Poden utilizarse chaves{} ou corchetes[] para iniciar e terminar o contido dun ficheiro JSON.{F}
+
+// verdadero-falso
+::Q2
+::Nun proxecto Big Data búscase a maior cantidade de datos para obter resultados máis precisos.{T}
+
+//Resposta múltiple
+::Q3
+:: Indica a opción correcta sobre métodos diferentes de acceso aos datos{
+=Descarga, scraping e API
+~scraping e API
+~APi e descarga
+~scraping e descarga
+}
+
+//verdadero-falso
+::Q4
+:: Os ficheiros XML son datos semi-estruturados.{T}
+
+//Resposta múltiple
+::Q5
+:: Indica a opción incorrecta sobre librerías de web scraping{
+=pandas
+~requests
+~BeautifulSoup
+}
