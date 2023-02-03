@@ -1,0 +1,33 @@
+::Q1:: ¿Para que se usa el Big Data en la toma de decisiones? {
+    =Para tomar decisiones basadas en los datos y en la analítica avanzada
+    ~Para tomar decisiones basadas en las analíticas propias internas
+}
+
+::Q2:: Cual de los siguientes no es un tipo de dato {
+    =Sobre estructurado
+    ~Estructurado
+    ~Semi-Estructurado
+    ~No estructurado
+}
+
+::Q3:: ¿Cual de las siguentes afirmaciones es errónea respecto a los datos NO estructurados?ig Data en la toma de decisiones? {
+    =Predomina una estructura simple
+    ~No predomina ningún tipo de estructura
+    ~Pueden contener algún tipo de metadatos
+    ~Pueden contener imágenes, vídeo, documentos de texto, pdf...
+}
+
+::Q4:: ¿Qué afirmación es falsa sobre el fomato de ficheros CSV? {
+    =Puede estar separada únicamente por comas
+    ~Generalmente se identifica con la extensión CSV
+    ~Pueden tener una primera fila de cabecera
+    ~Son ficheros de texto plano
+}
+
+::Q5:: ¿Qué afirmación es falsa sobre el fomato Parquet? {
+    =El almacenamiento es sin compresión
+    ~Tienen extensión .parquet
+    ~Son de formato binario
+    ~Es un proyecto OpenSurce radicado en la fundación Apache
+    ~Tiene un formato de almacenamiento columnar
+}
