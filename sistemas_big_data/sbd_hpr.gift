@@ -1,0 +1,19 @@
+::Q1:: Un ejemplo de datos no estructurados serían las redes sociales {T}
+
+::Q2:: Cuál no es un ejemplo de datos no estructurados {
+~ Conversación en línea
+~ Videos
+= Bases de datos relacionales
+~ Archivos de audio
+}
+
+::Q3:: Que característica no pertenece a .csv {
+~ Valores separados por coma
+~ Ficheros de texto plano
+~ Pueden tener una cabecera que identifique los campos
+= Capacidad de incluir información multimedia
+}
+
+::Q4:: Es muy común que para el uso de una API no necesites autorización o un acceso en específico {F}
+
+::Q5:: El Scraping masivo de grandes cantidades de datos puede consumir recursos valiosos y ralentizar el funcionamiento de un sistema {T}
