@@ -1,0 +1,22 @@
+// falso/verdadero
+::Q1::OpenData é unha filosofía e práctica que pon a disposición pública información sobre asuntos de carácter
+público{T}
+
+// falso/verdadero
+::Q2:: Crawling / Scrapping son métodos de acceso a datos {T}
+
+// falso/verdadero
+::Q3::Python pode traballar con múltiples formatos de datos marca la (INCORRECTA){
+    =office
+    ~excel
+    ~JSON
+    ~CSV
+}
+
+// falso/verdadero
+::Q4::Python pode traballar con múltiples formatos de datos{T}
+
+// falso/verdadero
+::Q5:: En los datos no estructurados no se pueden contener ningun tipo de metadatos {F}
+
+
