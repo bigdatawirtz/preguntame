@@ -1,0 +1,233 @@
+// Preguntas Adrián
+::Q1:: Os datos poden ter diferentes orixes, estas se clasifican en... {
+= Fontes internas, na que a información se xera internamente nunha organización, e as fontes externas, que se xera fóra da organización.
+~ Fontes internas, na que a información de xera dentro do mesmo país, e as fontes externas, que se xera fóra do mesmo país.
+~ Fontes accesibles, na que a información é  totalmente accesible, e as fontes inacesibles, na que se restringe o acceso a certo tipo de información.
+~ Fontes de datos cifradas e fontes de datos descifradas.
+}
+
+::Q2:: O uso das Redes Sociais no Big Data... {
+~ Teñen poca importancia en Big Data por ter problemas de veracidade e non permiten extraer todo tipo de información.
+~ Teñen moita importancia en Big Data por non ter problemas de veracidade e permiter extraer tanto información empresa e persoas de todo tipo.
+= Cada vez cobran máis importancia en Big Data, poden ter problemas de veracidade, permiten extraer información sobre empresas e persoas de todo tipo.
+~ Cada vez cobran máis importancia en Big Data, non teñen problemas de veracidade, permiten extraer información sobre empresas e persoas de todo tipo ata o mais mínimo detalle.
+}
+
+::Q3:: Disponemos de métodos de acceso aos datos, ¿cales son?. {
+~ Acceso remoto, asistentes virtuales, descarga.
+= Descarga, API, Crawling/Scrapping.
+~ Portais de datos abertos, uso de torrents, red profunda.
+~ As respostas a e b son correctas.
+}
+
+::Q4::  ¿Cal de estas respostas non está relacionada có consumo dunha API? {
+~ Enlace a la API, actividade do portal, organización do portal.
+= Compartir los datos modificados en un proyecto mediante unha pull-request.
+~ Tipos de datos que ofrece un portal de consumo de recursos web e súa clasicación según o tipo.
+~ Dataset dos datos, casos de uso, datos abertos.
+}
+
+::Q5:: ¿En que formato podemos gardar os datos mediante o separador que queramos?. {
+~ CSV e XSL.
+= CSV.
+~ parquet.
+~ JSON e XML.
+}
+
+::Q1:: JSON significa JavaScritp Object Notation {T}
+
+::Q2:: Con Big Data la toma de decisiones empresariales  se basa en los datos y en  la analítica avanzada {T}
+
+
+::Q3:: En Big Data los datos solo pueden ser de fuentes de origen externas {F}
+
+::Q4:: En Big Data los datos solo pueden ser de fuentes de origen interna {F}
+
+::Q5:: El OpenData es una fuente externa e pública {T}
+
+
+
+
+::Q1:: O número total de contas das redes sociais supera a poboación mundial, isto fai que os datos sexan incertos tanto na sua expresión coma no seu contido. {T}
+
+::Q2:: Según os tipos de datos, indica cal das seguintes afirmación é FALSA. {
+~ Os datos estruturados son máis sinxelos de procesar que os non estruturados.
+~ Os datos semi-estruturados precisan de menor cantidade que os non estruturados.
+= Os datos semi-estruturados son máis sinxelos de procesar que os estruturados. 
+~ Os datos non estruturados precisan de maior cantidade que os estruturados.
+}
+
+::Q3:: O formato de Datos "CSV", pode separar os seus valores da forma que sexa, mentres que o separador elexido sexa compatible co software ou programa que o vai utilizar. {T}
+
+::Q4:: En referencia ao OpenData, indica cal das seguintes respostas correspóndese cunha característica que debe cumprir. {
+~ Formato aberto pero non editable, accesible a través da web.
+= Documentación da origen dos datos e permiso para sua reutilización.
+~ Non require de permiso de reutilización, pero si debe un formato editable.
+~ Formato aberto e editable para as persoas autorizadas.
+}
+
+::Q5:: A librería de Python "Pandas", permite a manipulación de datos con ferramentas para procesar, limpar, analizar e almacenar os datos. {F}
+
+::Q1:: Un ejemplo de datos no estructurados serían las redes sociales {T}
+
+::Q2:: Cuál no es un ejemplo de datos no estructurados {
+~ Conversación en línea
+~ Videos
+= Bases de datos relacionales
+~ Archivos de audio
+}
+
+::Q3:: Que característica no pertenece a .csv {
+~ Valores separados por coma
+~ Ficheros de texto plano
+~ Pueden tener una cabecera que identifique los campos
+= Capacidad de incluir información multimedia
+}
+
+::Q4:: Es muy común que para el uso de una API no necesites autorización o un acceso en específico {F}
+
+::Q5:: El Scraping masivo de grandes cantidades de datos puede consumir recursos valiosos y ralentizar el funcionamiento de un sistema {T}
+
+:: Q1
+:: Los archivos parquet tienen formato binario y almacenan datos no estructurados {F}
+
+:: Q2
+:: Los archivos CSV son ficheros de texto plano que se pueden separar por "\:" por ejemplo {T}
+
+:: Q3
+:: Características que debe de cumplir un portal OpenData (señala la incorrecta) {
+    ~ Continuidad
+    ~ Formatos abiertos, editables
+    ~ Origen de los datos documentada
+    = Con licencias de copyright
+}
+
+:: Q4
+:: Para acceder a los datos del portal OpenData del gobierno de españa podemos utilizar diferentes medios, cual de los siguientes no sería válido? {
+    ~ Scrapping
+    ~ APIs
+    ~ Descarga de los datos navegando por la página
+    = Data Mining
+}
+
+:: Q5
+:: Para hacer un pull request debemos de hacer primero un fork al repositorio que queramos cambiar luego, clonarlo, hacer los cambios en local y subirlos {T}
+
+// falso/verdadero
+::Q1::OpenData é unha filosofía e práctica que pon a disposición pública información sobre asuntos de carácter
+público{T}
+
+// falso/verdadero
+::Q2:: Crawling / Scrapping son métodos de acceso a datos {T}
+
+// falso/verdadero
+::Q3::Python pode traballar con múltiples formatos de datos marca la (INCORRECTA){
+    =office
+    ~excel
+    ~JSON
+    ~CSV
+}
+
+// falso/verdadero
+::Q4::Python pode traballar con múltiples formatos de datos{T}
+
+// falso/verdadero
+::Q5:: En los datos no estructurados no se pueden contener ningun tipo de metadatos {F}
+
+
+
+
+::Q1:: Cúal no es un tipo de dato? {
+    ~Datos estruturados
+    ~Datos semi-estruturados
+    ~Datos non estruturados
+    =Datos poco estructurados
+}
+
+::Q2:: Los datos estructurados son los más fáciles de procesar y son de los que más cantidad hay {F}
+
+::Q3:: Un ejemplo de datos no estructurados son los registros médicos {T}
+
+::Q4:: Cúal no es un elemento de estructura del formato JSON? {
+    ~Llaves
+    ~Corchetes
+    ~Dos puntos
+    =Paréntesis
+}
+
+::Q5:: Una fuente de datos externa sería el OpenData {T}
+
+::Q1:: Os datos poden ser estructurados, semi-estructurados ou desordeados. {FALSE}
+
+::Q2:: NON é un formato de dato co que Python pode traballar... {
+~ Parquet.
+~ Shapefile.
+= CVS.
+~ JSON.
+}
+
+::Q3:: Para recopilar datos existen diferentes métodos, como... {
+~ API's.
+~ Scrapping.
+~ Descarga directa.
+= Todos os mencionados.
+}
+
+::Q4:: As fontes de datos internas son información que se xera internamente nunha organización. {TRUE}
+
+::Q5:: Nun proxecto Big Data búscase a maior cantidade de datos para obter resultados máis precisos. {TRUE}
+
+::Q1:: ¿Para que se usa el Big Data en la toma de decisiones? {
+    =Para tomar decisiones basadas en los datos y en la analítica avanzada
+    ~Para tomar decisiones basadas en las analíticas propias internas
+}
+
+::Q2:: Cual de los siguientes no es un tipo de dato {
+    =Sobre estructurado
+    ~Estructurado
+    ~Semi-Estructurado
+    ~No estructurado
+}
+
+::Q3:: ¿Cual de las siguentes afirmaciones es errónea respecto a los datos NO estructurados?ig Data en la toma de decisiones? {
+    =Predomina una estructura simple
+    ~No predomina ningún tipo de estructura
+    ~Pueden contener algún tipo de metadatos
+    ~Pueden contener imágenes, vídeo, documentos de texto, pdf...
+}
+
+::Q4:: ¿Qué afirmación es falsa sobre el fomato de ficheros CSV? {
+    =Puede estar separada únicamente por comas
+    ~Generalmente se identifica con la extensión CSV
+    ~Pueden tener una primera fila de cabecera
+    ~Son ficheros de texto plano
+}
+
+::Q5:: ¿Qué afirmación es falsa sobre el fomato Parquet? {
+    =El almacenamiento es sin compresión
+    ~Tienen extensión .parquet
+    ~Son de formato binario
+    ~Es un proyecto OpenSurce radicado en la fundación Apache
+    ~Tiene un formato de almacenamiento columnar
+}
+
+::Q1:: OpenData es una fuente externa y pública {T}
+
+::Q2:: Tipos de Datos {
+~ Estructurados, Semi-estructurados, SQL, NoSQL
+~ SQL, NoSQL
+= Estructurados, Semi-estructurados, No estructurados
+~ Estructurados, No estructurados, SQL
+}
+
+::Q3:: Shapefile es un formato para datos {
+~ Complejos
+~ Estructurados
+~ Simples
+= Espaciales
+}
+
+::Q4:: Las fuentes internas es información generada internamente por una organización {T}
+
+::Q5:: Los datos Quasi estructurados incluyen patrones reconocibles {T}
+
