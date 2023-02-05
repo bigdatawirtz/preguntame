@@ -1,0 +1,18 @@
+// falso/verdadero
+::Q1::Hadoop creouse para manexar volumes de datos masivos{T}
+
+// falso/verdadero
+::Q2:: O sistema de arquivos distribuídos Hadoop (HDFS), que é un sistema de arquivos distribuídos con
+tolerancia a fallos e MapReduce é unha maneira para almacenar poucos datos poco distribuida {F}
+
+// falso/verdadero
+::Q3::Commodity cluster é unha nova arquitectura que permite procesar de forma escalable e predecible volumes elevados de datos{T}
+
+// falso/verdadero
+::Q4::Un sistema de ficheiros distribuido permite almacenar datos de forma distribuída nun contorno onde tanto discos como máquinas
+poden fallar en calquera momento{T}
+
+// falso/verdadero
+::Q5:: No ecosistema Hadoop existen diferentes ferramentas que nos permiten inxerir datos a HDFS Kafka y cassandra {F}
+
+

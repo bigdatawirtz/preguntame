@@ -1,0 +1,19 @@
+::Q1::Flume forma parte del entorno...{
+ = Hadoop
+ ~ Cloudera
+ ~ Vertica
+ ~ Google Cloud BigQuery
+}
+
+::Q2::HDFS o GFS son ejemplos de Sistemas de Ficheros Distribuidos {T}
+
+::Q3::La arquitectura modern se dentra en los datos Data-centric {T}
+
+::Q4::Arquitectura que procesa volúmenes de datos de forma escalable?{
+ = Commodity Cluster
+ ~ Scalater
+ ~ Flume Clust
+ ~ HDF Cluster
+}
+
+::Q5::La Metadata de los Datawarehouse está formada entre otros por los procesos ETL? {F}

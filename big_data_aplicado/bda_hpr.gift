@@ -1,0 +1,19 @@
+::Q1::Cuál no es un concepto que maneja Flume ? {
+ = Pipeline
+ ~ Sink
+ ~ Agent
+ ~ Source 
+}
+
+::Q2::Entendemos por "Data Ingestion" a un proceso por el cuál obtenemos los datos y los almacenamos {T}
+
+::Q3::Una de las características de Kafka es que deja atrás el patrón de diseño productor/consumidor {F}
+
+::Q4::Que característica pertenece a Flume y no a Kafka? {
+ = Diseño orientado a Hadoop
+ ~ Escalable
+ ~ Optimizado para inserciones en tiempo real
+ ~ Moderno y actualizado
+}
+
+::Q5::Entendemos como "Sharding" a la división de datos en subconjuntos de menor tamaño {T}

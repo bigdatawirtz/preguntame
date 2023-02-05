@@ -1,0 +1,25 @@
+// Preguntas Adrián
+::Q1:: Apache Kafka é unha plataforma distribuída de transmisión de datos pero non permite publicar, almacenar e procesar fluxos de datos en tempo real. {F}
+
+::Q2:: Mediante o contedor Kafka os usuarios poden consumir varias fontes de datos ó mesmo tempo de forma sinxela {T}
+
+::Q3:: ¿Cal destas afirmacions é a correcta?. {
+~ Kafka está optimizado para a inxesta de datos en tempo real, é tolerante a fallos pero non é facimente escalable.
+~ Kafka e Flume son facilmente escalables pero están estancados en canto ó seu desenvolvemento.
+~ Kafka non é facilmente escalable mentres que Flume sí.
+= Kafka é facilmente escalable, moderno, actualizado e versátil, mentres que flume non é facilmemte escalable e o seu desenvolvemento está estancado.
+}
+
+::Q4:: ¿Cales son as características das bases de datos NoSQL?. {
+= Teñen esquemas flexibles, tipos de datos flexibles, arquitecturas de datos facilmente escalables, rápido acceso aos datos xa que no necesitan el uso de índices.
+~ Teñen esquemas flexibles, tipos de datos estrictos, arquitectura de datos non escalable, lento acceso aos datos por ter que ter índices.
+~ Arquitectura escalable, sin esquema, tipos de datos estricto, lento acceso a los datos por la enorme cantidad que pueden almacenar.
+~ Las bases de datos NoSQL aún no existen.
+}
+
+::Q5:: O Datawarehouse é un almacén enorme de datos. ¿Cuales son son características?{
+~ Deseñado para permitir a análisis de xeito eficiente, apoio a toma de decisión, a información está estructurada.
+~ Almacén de datos único, uso de diferentes fontes de datos, almacén centralizado, el amacenamiento puede ser on-Premisis y on Cloud.
+~ A información no está estruturada, almacén de datos distribuido, su funcionalidad está centrada solo a la visualización e representación de datos.
+= Hay 2 respostas correctas.
+}

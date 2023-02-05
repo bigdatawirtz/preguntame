@@ -1,0 +1,19 @@
+:: Q1
+:: Cual es el componente que no forma parte da aquitectura de flume {
+    = Ipyevents
+    ~ Sinks
+    ~ Channels
+    ~ Agent
+}
+
+:: Q2
+:: Las siglas ETL dentro de la arquitectura de Datawarehouse se refiere a la extracción, carga y análisis de los datos {F}
+
+:: Q3
+:: Los esquemas más utilizados para el acceso rápido a la información en BBDD relacionales son Star Schema y Snowflake {T}
+
+:: Q4
+:: Un Data Lake almacena información estructurada y un Data Mart puede almacenar información no estructurada también {F}
+
+:: Q5
+:: La técnica de sharding consiste en dividir los datos en diferentes nodos del cluster y la replicación consiste en la división de los datos en conjuntos más pequeños {F}

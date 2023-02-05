@@ -1,0 +1,22 @@
+//Verdadero/Falso
+::Q1::Apache KAFKA es una plataforma NO distribuída de transmisión de datos{F}
+
+//Verdadero/Falso
+::Q2::KAFKA es facilmente escalable{T}
+
+//Respuesta Múltiple
+::Q3::Componentes Datawarehouse{
+    ~Sistemas operacionales, Megadata, Data Marts
+    ~Sistemas operacionales, Data Marts
+    =Sistemas operacionales, Metadata, Data Marts
+}
+
+//Respuesta Múltiple
+::Q4::No es un modelo de datos en Data Marts{
+    =Esquema en cruz
+    ~Esquema en estrella
+    ~Esquema "copo de nieve"
+}
+
+//Verdadero/Falso
+::Q5::El Sharding en Bases de datos noSQL, reperesenta la divison de conjuntos de datos en conjuntos de datos más pequeños {V}

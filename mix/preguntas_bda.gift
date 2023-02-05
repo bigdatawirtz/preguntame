@@ -1,0 +1,331 @@
+::Q1:: Flume es mas moderno y versátil que Kafka. {F}
+
+::Q2:: Cual de los siguientes elementos es un componente clave en las arquitecturas de datos modernas? {
+    = Data Lake.
+    ~ Virtualización de datos
+    ~ Cubos OLAP
+    ~ Data Marts
+}
+
+::Q3:: La arquitectura moderna de datos garantíza la calidad e integridad de los datos con procesos de gobernanza. {T}
+
+::Q4:: Las bases de datos NoSQL cada vez son mas necesitadas por, entre otras cosas, el aumento de los datos semi-estructurados {T}
+
+::Q5:: Cassandra es una aplicación para qué tipo de bases NoSQL? {
+    = Orientadas a columnas.
+    ~ Clave-Valor
+    ~ Orientadas a Documento
+    ~ Grafos
+}
+
+// Preguntas Adrián
+::Q1:: Apache Kafka é unha plataforma distribuída de transmisión de datos pero non permite publicar, almacenar e procesar fluxos de datos en tempo real. {F}
+
+::Q2:: Mediante o contedor Kafka os usuarios poden consumir varias fontes de datos ó mesmo tempo de forma sinxela {T}
+
+::Q3:: ¿Cal destas afirmacions é a correcta?. {
+~ Kafka está optimizado para a inxesta de datos en tempo real, é tolerante a fallos pero non é facimente escalable.
+~ Kafka e Flume son facilmente escalables pero están estancados en canto ó seu desenvolvemento.
+~ Kafka non é facilmente escalable mentres que Flume sí.
+= Kafka é facilmente escalable, moderno, actualizado e versátil, mentres que flume non é facilmemte escalable e o seu desenvolvemento está estancado.
+}
+
+::Q4:: ¿Cales son as características das bases de datos NoSQL?. {
+= Teñen esquemas flexibles, tipos de datos flexibles, arquitecturas de datos facilmente escalables, rápido acceso aos datos xa que no necesitan el uso de índices.
+~ Teñen esquemas flexibles, tipos de datos estrictos, arquitectura de datos non escalable, lento acceso aos datos por ter que ter índices.
+~ Arquitectura escalable, sin esquema, tipos de datos estricto, lento acceso a los datos por la enorme cantidad que pueden almacenar.
+~ Las bases de datos NoSQL aún no existen.
+}
+
+::Q5:: O Datawarehouse é un almacén enorme de datos. ¿Cuales son son características?{
+~ Deseñado para permitir a análisis de xeito eficiente, apoio a toma de decisión, a información está estructurada.
+~ Almacén de datos único, uso de diferentes fontes de datos, almacén centralizado, el amacenamiento puede ser on-Premisis y on Cloud.
+~ A información no está estruturada, almacén de datos distribuido, su funcionalidad está centrada solo a la visualización e representación de datos.
+= Hay 2 respostas correctas.
+}
+
+
+::Q1:: El sistema de archivos distribuídos Hadoop (HDFS), es un sistema de arquivos distribuídos con tolerancia a fallos. {T}
+
+::Q2:: En el ecosistema Hadoop existen diferentes herramientas que nos permiten consumir datos a HDFS {T}
+
+::Q3:: Sqoop\: 'sql-to-hadoop, permite mover datos desde bases de datos relacionales a HDFS (y viceversa) {T}
+
+::Q4:: Apache Flume No es  un produto que forma parte del ecosistema Hadoop {F}
+
+::Q5:: Bases NoSQL no pueden trabajar con datos semi-estruturados {F}
+
+
+
+
+//Verdadero/Falso
+::Q1::Apache KAFKA es una plataforma NO distribuída de transmisión de datos{F}
+
+//Verdadero/Falso
+::Q2::KAFKA es facilmente escalable{T}
+
+//Respuesta Múltiple
+::Q3::Componentes Datawarehouse{
+    ~Sistemas operacionales, Megadata, Data Marts
+    ~Sistemas operacionales, Data Marts
+    =Sistemas operacionales, Metadata, Data Marts
+}
+
+//Respuesta Múltiple
+::Q4::No es un modelo de datos en Data Marts{
+    =Esquema en cruz
+    ~Esquema en estrella
+    ~Esquema "copo de nieve"
+}
+
+//Verdadero/Falso
+::Q5::El Sharding en Bases de datos noSQL, reperesenta la divison de conjuntos de datos en conjuntos de datos más pequeños {V}
+
+::Q1:: En refencia as BBDD NoSQL de Grafos, non tódolos nodos ou aristas teñen pares clave-valor. {F}
+
+::Q2:: Cal das seguintes características NON fai referencia a Flume. {
+~ Deseño orientado a Hadoop.
+~ Eficiente agregando e movendo datos a un almacén centralizado.
+= Fácilmente escalable.
+~ Desenvolvemento estancado.
+}
+
+::Q3:: Fontes como as redes sociais poden almacenar todo tipo de datos no Data Warehouse, que logo son procesados e estruturados para entrar no Data Lake. {F}
+
+::Q4:: Cal das seguintes características pertence as BBDD NoSQL "MongoDB". {
+~ Orientada a almacenar documentos
+= Todas son válidas.
+~ Arquitectura escalable.
+~ Esquema de datos variable.
+}
+
+::Q5:: Sqoop é unha ferramenta do ecosistema Hadoop que permitenos inxerir datos a HDFS a través de comandos. {T}
+
+::Q1::Cuál no es un concepto que maneja Flume ? {
+ = Pipeline
+ ~ Sink
+ ~ Agent
+ ~ Source 
+}
+
+::Q2::Entendemos por "Data Ingestion" a un proceso por el cuál obtenemos los datos y los almacenamos {T}
+
+::Q3::Una de las características de Kafka es que deja atrás el patrón de diseño productor/consumidor {F}
+
+::Q4::Que característica pertenece a Flume y no a Kafka? {
+ = Diseño orientado a Hadoop
+ ~ Escalable
+ ~ Optimizado para inserciones en tiempo real
+ ~ Moderno y actualizado
+}
+
+::Q5::Entendemos como "Sharding" a la división de datos en subconjuntos de menor tamaño {T}
+
+:: Q1
+:: Cual es el componente que no forma parte da aquitectura de flume {
+    = Ipyevents
+    ~ Sinks
+    ~ Channels
+    ~ Agent
+}
+
+:: Q2
+:: Las siglas ETL dentro de la arquitectura de Datawarehouse se refiere a la extracción, carga y análisis de los datos {F}
+
+:: Q3
+:: Los esquemas más utilizados para el acceso rápido a la información en BBDD relacionales son Star Schema y Snowflake {T}
+
+:: Q4
+:: Un Data Lake almacena información estructurada y un Data Mart puede almacenar información no estructurada también {F}
+
+:: Q5
+:: La técnica de sharding consiste en dividir los datos en diferentes nodos del cluster y la replicación consiste en la división de los datos en conjuntos más pequeños {F}
+
+// falso/verdadero
+::Q1::Hadoop creouse para manexar volumes de datos masivos{T}
+
+// falso/verdadero
+::Q2:: O sistema de arquivos distribuídos Hadoop (HDFS), que é un sistema de arquivos distribuídos con
+tolerancia a fallos e MapReduce é unha maneira para almacenar poucos datos poco distribuida {F}
+
+// falso/verdadero
+::Q3::Commodity cluster é unha nova arquitectura que permite procesar de forma escalable e predecible volumes elevados de datos{T}
+
+// falso/verdadero
+::Q4::Un sistema de ficheiros distribuido permite almacenar datos de forma distribuída nun contorno onde tanto discos como máquinas
+poden fallar en calquera momento{T}
+
+// falso/verdadero
+::Q5:: No ecosistema Hadoop existen diferentes ferramentas que nos permiten inxerir datos a HDFS Kafka y cassandra {F}
+
+
+
+
+// falso/verdadero
+::Q1::Las bases de datos noSQL pueden trabajar con datos no estructurados{T}
+
+// falso/verdadero
+::Q2:: Hay solo tres tipos de bases de datos noSQL que son clave-valor, orientadas a columnas y grafos{F}
+
+// falso/verdadero
+::Q3::Apache Kafka é unha plataforma distribuída de transmisión de datos que baséase no patrón de deseño produtor/consumidor{T}
+
+// falso/verdadero
+::Q4::Con Data Ingestion ou Inxesta de datos referímonos ao proceso polo que obtemos os datos e 
+os almacenamos{T}
+
+// falso/verdadero
+::Q5:: Un Data Mart é unha estrutura de datos deseñada especificamente para que usuarios finais 
+poidan acceder e explorar os datos de forma rápida e interactiva{T}
+
+
+
+
+::Q1::MapReduce está escrito en qué lenguaje {
+    =Java
+    ~Typescript
+    ~C+
+    ~Javascript
+}
+
+::Q2::Cual de las siguientes afirmaciones es la mas correcta sobre los sink de Flume{
+    ~Elimina eventos de un Channel
+    ~Transmite los eventos a un agente
+    ~Transmite los eventos a su destino final
+    =todas son correctas
+}
+
+::Q3::Flume es facilmente escalable, a diferencia de Kafka{F}
+
+::Q4::Las fuentes de datos que alimentan el DataWarehouse se llaman Data Marts {F}
+
+::Q5::El concepto replicacion (en bbdd NoSQL) se basa en...{
+    =Un conjunto de datos que reside en varios nodos distintos
+    ~Varios conjuntos de datos identicos en un mismo nodo
+    ~Dividir un conjunto de datos en dos subconjuntos
+    ~Dividir un conjunto de datos en varios subconjuntos
+}
+
+::Q1:: Cúal no es un tipo de base de datos noSQL? {
+    ~Clave-valor
+    ~Grafos
+    ~Orientadas a documentos
+    =Orientadas a filas
+}
+
+::Q2:: El sharding es la división de dos conjuntos de datos en subconjuntos más pequeños {T}
+
+::Q3:: Kafka no permite publicar o almacenar flujos de datos en tiempo real {F}
+
+::Q4:: Cúal no es un componente del Datawarehouse? {
+    ~Sistemas operacionales
+    ~Metadata
+    ~Data Marts
+    =DTL
+}
+
+::Q5:: El esquema de estrella permite hacer consultas más simples y eficientes {T}
+
+// verdadero-falso
+::Q1
+::A replicación é un concepto das bbdd noSQL distribuídas basado na división dos conxuntos de datos en subconxuntos máis pequenos.{F}
+
+// verdadero-falso
+::Q2
+::Flume é un sistema de inxestión destinado principalmente a fluxos de datos.{T}
+
+//Resposta múltiple
+::Q3
+:: ¿De que tipo de noSQL é MongoDB?{
+=Orientadas a documentos
+~Orientadas a columnas
+~Clave-valor
+~Grafos
+}
+
+//Resposta múltiple
+::Q4
+:: O Master Node dun sistema de ficheiros distribuído ten como función rexistrar os metadatos.{T}
+
+//Resposta múltiple
+::Q5
+:: Indica a opción incorrecta sobre Kafka{
+=Non fácilmente escalable
+~Fácilmente escalable
+~Sistema de mensaxería eficiente e tolerante a fallos
+~Moderno, actualizado e versátil
+}
+
+::Q1:: O procesamento de datos distribuído toma o volume de datos de gran tamaño e divídeo en partes máis pequenas. {TRUE}
+
+::Q2:: Son ferramentas de Data Ingestion do ecosistema Hadoop... {
+~ Parquet e Flume.
+~ HDFS e Kafka.
+= Sqoop e Flume.
+~ Sqoop e Kafka.
+}
+
+::Q3:: Cal de estos non é un compoñente dun datawarehouse. {
+~ Sistemas operacionais.
+= Procesos ETS.
+~ Metadata.
+~ Data Marts.
+}
+
+::Q4:: Escolle a afirmación correcta sobre Kafka. {
+~ Permite publicar, almacenar e procesar fluxos de datos en tempo real.
+= Todas son correctas.
+~ É unha plataforma distribuída de transmisión de datos.
+~ Baséase no patrón de deseño produtor/consumidor.
+}
+
+::Q5:: Cassandra é un tipo de base de datos noSQL orientada a documento. {FALSE}
+
+::Q1::Sinala a opción sorrecta sobre escalabilidade vertical  {
+ = o procesamento de datos toma o volumen de datos completo e procésao nun só equipo mopi potente
+ ~ o procesamento de datos divide o volumen de datos en pates e procésao en moitas computadoras pouco potentes
+}
+
+::Q2::O sistema de arquivos distribuídos Hadoop (HDFS), que é un sistema de arquivos distribuídos con 
+tolerancia a fallos {T}
+
+::Q3::Un Data Mart é unha estrutura de datos deseñada especificamente para que usuarios finais 
+poidan acceder e explorar os datos de forma rápida e interactiva {T}
+
+::Q4::Sinala a opción máis correcta sobre o Esquema de estrela {
+ = Todas as opción son correctas
+ ~ A táboa de feitos describe os eventos principais
+ ~ As táboas de dimensións correspóndense con diferentes grupos de atributos relevantes
+ ~ O esquema permite responder preguntas con consultas máis simples e eficientes
+}
+
+::Q5::Sinala a opción máis correcta sobre Apache Kafka {
+ = Todas as opción son correctas
+ ~ É unha plataforma distribuída de transmisión de datos, ou dito doutro xeito, un 
+sistema de mensaxería. 
+ ~ Permite publicar, almacenar e procesar fluxos de datos en tempo real
+ ~ Baséase no patrón de deseño produtor/consumidor.
+}
+
+
+::Q1::Flume forma parte del entorno...{
+ = Hadoop
+ ~ Cloudera
+ ~ Vertica
+ ~ Google Cloud BigQuery
+}
+
+::Q2::HDFS o GFS son ejemplos de Sistemas de Ficheros Distribuidos {T}
+
+::Q3::La arquitectura modern se dentra en los datos Data-centric {T}
+
+::Q4::Arquitectura que procesa volúmenes de datos de forma escalable?{
+ = Commodity Cluster
+ ~ Scalater
+ ~ Flume Clust
+ ~ HDF Cluster
+}
+
+::Q5::La Metadata de los Datawarehouse está formada entre otros por los procesos ETL? {F}
+
+
