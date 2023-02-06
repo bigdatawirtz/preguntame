@@ -1,0 +1,22 @@
+::Q1:: El OpenData, al no generar un beneficio económico directo, no aporta ninguna ganacia beneficiosa a una empresa.{F}
+
+::Q2:: Las BBDD noSQL clave/valor continen datos semi-estructurados, mientras que mongoDB continen datos cuasi-estructuradas {T}
+
+::Q3:: Para buscar oportunidades de negocio, ¿a que fuente de datos acudirias?{
+    = Externas
+    ~ Internas
+}
+
+::Q4:: ¿Que simbolo NO utiliza el formato JSON? {
+    = punto y coma
+    ~ dos puntos
+    ~ corchetes
+    ~ llaves
+}
+
+::Q5:: Cual de los siguientes NO es un formato de archivo adecuado para el big data {
+    = tiff
+    ~ Parquet
+    ~ ORC
+    ~ Avro
+}
